@@ -1,4 +1,4 @@
-# Deploying-Wordpress-and-MySQL-in-Kubernetes-Minikube-cluster
+# Retrieving Information from AWS Services which includes EC2, S3 and RDS DB instances
 
-In this, I deployed Wordpress and its backend in Kubernetes Minikube cluster.
-Configuration includes Secret, Persistent Volume, Persistent Volume claim, Services, Deployments and Pods.
+Here I retrieved Information from AWS Services which includes EC2, S3 and RDS DB instances by using boto3 module in Python.
+
